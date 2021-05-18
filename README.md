@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @7jones
+- 👀 I’m interested in coffee and code.
+- 🌱 I’m currently learning javascript.
